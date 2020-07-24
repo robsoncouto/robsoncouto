@@ -3,7 +3,7 @@
 I'm Rob, an Electrical engineer and firmware developer,  currently woking on IoT for Smart Grids with LoRaWAN.\
 I enjoy learning about embedded systems, electronics and hardware hacking.\
 You can see a list of my personal projects at [my webpage](https://www.robsoncouto.com)\
-I write at [dragaosemchama.com](https://www.dragaosemchama.com)\
+I write at [dragaosemchama.com](https://www.dragaosemchama.com)
 
 <!--
 **robsoncouto/robsoncouto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
