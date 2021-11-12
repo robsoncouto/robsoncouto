@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+## GitHub Stats
+![Rob's GitHub stats](https://github-readme-stats.vercel.app/api?username=robsoncouto&theme=radical&show_icons=true)
