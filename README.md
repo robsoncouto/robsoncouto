@@ -1,7 +1,7 @@
 ### Welcome to my github profile! 👋
 
-I'm Rob, an Electrical engineer and firmware developer, currently woking on Industrial IoT. \
-I also have worked with Smart Grids and LoRaWAN.\
+I'm Rob, an Embedded Systems Engineer, currently woking on automotive systems. \
+I also have worked with Industrial IoT, Smart Grids and LoRaWAN.\
 I enjoy learning about embedded systems, electronics and hardware hacking.\
 You can see a list of my personal projects at [my webpage](https://www.robsoncouto.com)\
 I write at [dragaosemchama.com](https://www.dragaosemchama.com)
